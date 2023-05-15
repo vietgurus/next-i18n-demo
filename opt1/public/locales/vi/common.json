@@ -1,0 +1,11 @@
+{
+  "h1": "Một ví dụ đơn giản",
+  "change-locale": "Thay đổi ngôn ngữ",
+  "to-second-page": "Đến trang thứ hai",
+  "to-client-page": "Đến trang khách hàng",
+  "to-lazy-reload-page": "Đến trang tải lại chậm",
+  "error-with-status": "Đã xảy ra lỗi {{statusCode}} trên máy chủ",
+  "error-without-status": "Đã xảy ra lỗi trên máy chủ",
+  "title": "Trang chủ | next-i18next",
+  "shallow-route": "Đến shallow route {{counter}}"
+  }
